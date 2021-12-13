@@ -1,7 +1,7 @@
 % Filename: chu_Michael_lab3e_SansMusicAnimation.t
 % Author: Michael Chu
 % Date Created: December 3rd, 2021 
-% Description: Output Undertale Sans and his BGM(Back Ground Music
+% Description: Output Undertale Sans and his BGM(Back Ground Music)
 % ***************** PROCESS DEFINITIONS ****************************
 process drawScreen
 setscreen ("graphics")
